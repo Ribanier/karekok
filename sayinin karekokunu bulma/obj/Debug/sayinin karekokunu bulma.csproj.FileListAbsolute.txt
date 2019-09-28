@@ -1,0 +1,27 @@
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.exe.config
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.exe
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.pdb
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin_karekokunu_bulma.Form1.resources
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin_karekokunu_bulma.Properties.Resources.resources
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.csproj.GenerateResource.Cache
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.exe
+c:\users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.pdb
+C:\Users\spide\documents\visual studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.csprojResolveAssemblyReference.cache
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.exe.config
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.exe
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.pdb
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.exe
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.pdb
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.csprojResolveAssemblyReference.cache
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin_karekokunu_bulma.Form1.resources
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin_karekokunu_bulma.Properties.Resources.resources
+C:\Users\sadik\Documents\Visual Studio 2013\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.csproj.GenerateResource.Cache
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.exe.config
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.exe
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.pdb
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.exe
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\bin\Debug\sayinin karekokunu bulma.pdb
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.csprojResolveAssemblyReference.cache
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin_karekokunu_bulma.Form1.resources
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin_karekokunu_bulma.Properties.Resources.resources
+D:\Developer Files\Projects\sayinin karekokunu bulma\sayinin karekokunu bulma\obj\Debug\sayinin karekokunu bulma.csproj.GenerateResource.Cache
